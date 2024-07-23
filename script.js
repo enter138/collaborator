@@ -80,7 +80,7 @@ function logVisit() {
 // Function to get the referring IP address
 function getReferrerIP() {
   // Replace this with your actual method of retrieving the referring IP address
-  return '192.168.0.1';
+  return '185.199.108.153';
 }
 
 // Broadcast message to all clients to clear logs
